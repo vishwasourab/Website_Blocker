@@ -1,7 +1,7 @@
 # Website_Blocker
 This is a simple python script that blocks some websites (previously stored in script) on our desired time. 
 
-This simple script improves our work productivity and it does'nt take much space or does not slow doen your system.
+This simple script improves our work productivity and it does'nt take much space or does not slow down your system.
 
 Example : Block Facebook or any other social Networking Sites in your office hours
 
