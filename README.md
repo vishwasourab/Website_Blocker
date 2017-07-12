@@ -3,11 +3,11 @@ This is a simple python script that blocks some websites (previously stored in s
 
 This simple script improves our work productivity and it does'nt take much space or does not slow down your system.
 
-Example : Block Facebook or any other social Networking Sites in your office hours
+#### Example : Block Facebook or any other social Networking Sites in your office hours
 
-For this blocker to work, you have to follow some steps for this program to start running automatically at the start up:
+### For this blocker to work, you have to follow some steps for this program to start running automatically at the start up:
 
-(1)	  Open Task Scheduler 
+(1)	  Open Task Scheduler
 (2)	  Click on "Create New Task"
 (3)	  Give the task a name , Say "Website Blocker"
 (4)	  In Security Options, Check on to run this with Highest Priviliges
